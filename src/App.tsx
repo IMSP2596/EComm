@@ -1,8 +1,9 @@
 import React from 'react';
+import Home from './HomePageComponent';
 
 function App() {
   return (
-    <><h1>Hello World!!</h1></>
+    <><Home/></>
   );
 }
 
